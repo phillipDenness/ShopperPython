@@ -1,1 +1,0 @@
-pscp "C:\Users\XPS\Documents\Gumtree Scrape\scrape.py" pi@192.168.1.216:/home/pi/script-repo/scrape.py
